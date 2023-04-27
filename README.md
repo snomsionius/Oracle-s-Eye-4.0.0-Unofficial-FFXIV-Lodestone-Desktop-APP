@@ -85,10 +85,12 @@ It can:
 Although it is in its early stages, it can do quite a bit.At the time, I focused on making gear related items (sword,ring,armor....) working.  
 These work as planned. Items like potions or ores are not fully supported right now, so you only get basic information from their page.  
 Some items do NOT work at all right now, they will show you a pop-up and will offer to open the item in your browser.  
+It is normal for the program to display "No Response" while searching. Do not worry.  
 
 ## About the Market board  
 
 It can show every Item in the game with corresponding prices (lowest and median) BUT the prices are not real time.  
+It is normal for the program to display "No Response" while searching. Do not worry.  
 
 ## Solved Bugs   
 - Fixed some display Errors  
