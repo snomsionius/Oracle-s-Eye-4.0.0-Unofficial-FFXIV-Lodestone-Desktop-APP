@@ -1,2 +1,0 @@
-[console_scripts]
-showinfilemanager = showinfm.showinfm:main
