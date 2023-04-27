@@ -34,6 +34,7 @@ Your PC might give you a warning that your PC got protected from a virus or smth
 
 1. Download the package  
 2. Unzip at your desired location  
+3. IF you get an error while extracting, press skip in the error dialogue. It will work nonetheless  
 3. Start .exe  
 
 ## How to use  
