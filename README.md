@@ -1,0 +1,134 @@
+# Oracle-s-Eye-4.0.0-Unofficial-FFXIV-Lodestone-Desktop-App
+
+Former Final-Fantasy-XIV-Lodestone-Desktop --Unofficial-  
+
+## Short project summary:  
+I was bored and thought : Lets create an app for the FFxiv Lodestone.  
+
+
+#### Why?  
+Because i felt like it and I had free time  
+
+#### Roadmap  
+
+Ver 1.0.2 -> Ver 2.0.0 -> Ver 3.0.2 -> Ver 3.5.8 (Scrapped in developement, too many new features) -> 4.0.0 (Now) -> Ver. 5.0 (Coming)
+
+#### About the Virus warning  
+
+Your PC might give you a warning that your PC got protected from a virus or smth. Click on show more,proceed anyways if you trust me.  
+
+# The 5th installment if finally here.  
+
+## Content:  
+-How to install   
+-How to use    
+-What can it do  
+-New in this version 
+-About the Wiki  
+-About the Market  
+-Solved Bugs  
+-Whats to come    
+-Credits   
+
+## How to install:
+
+1. Download the package  
+2. Unzip at your desired location  
+3. Start .exe  
+
+## How to use  
+
+Start the program. Once started, you are greeted with the login page,log in with your ID or Name,DataCenter and Server, remember if wanted. From there, choose whatever you want to do.  
+The menu is on the right side. Look for a blue bar.  
+
+#### You can log-in with the ID or Name of another player to view their profile  
+## What can it do?  
+
+It can:  
+-Show your profile  
+-Show your+other peoples classes/jobs with level, click them and get more details  
+-Show your guild  
+-Show guild members  
+-Visit other profiles  
+-Show your Bozja stats (beta)  
+-Show your Eureka stats    
+-Show your Gear  
+-Show information on items  
+-Scout market prices  
+-Show other players Bozja Stats (beta)  
+-Show other players Eureka stats   
+
+## New in this version:   
+ 
+-The 5th release  
+-New look  
+-Dark or light mode can now be toggled in-App (First toggle needs double-click)  
+-Bozja stats (Yours+Other people)  
+-Eureka stats (Yours+Other people)    
+-Improved Game Wiki  (Search via whole Name now possible)  
+-New Market Board  (Search via whole Name now possible)  
+-Bozja works now (Kinda)  
+-More information avaiable for jobs (Yours+Other people)  
+-New Privacy Center  
+-New LogIn window  
+-LogIn save  
+-LogIn via Name  
+-Appearance menu (Customize your App)  
+-User insight on App files 
+-Character pictures now accessible via in App button  
+-Bozja is now stable  
+-Changes to network check, can lead to windows settings if needed    
+
+## About the WIKI  
+
+Although it is in its early stages, it can do quite a bit.At the time, I focused on making gear related items (sword,ring,armor....) working.  
+These work as planned. Items like potions or ores are not fully supported right now, so you only get basic information from their page.  
+Some items do NOT work at all right now, they will show you a pop-up and will offer to open the item in your browser.  
+
+## About the Market board  
+
+It can show every Item in the game with corresponding prices (lowest and median) BUT the prices are not real time.  
+
+## Solved Bugs   
+- Fixed some display Errors  
+- Fixed bugs where functions would call wrong values and crash  
+
+
+## Features to come:  
+
+-Player search (Planned for version 5.0)  
+-Stable Bozja insight.  
+-In-App assistant/Guide.    
+
+#### Credits  
+
+# Icons 
+
+Market icon by: <a href="https://www.flaticon.com/de/kostenlose-icons/markt" title="markt Icons">Markt Icons erstellt von Eucalyp - Flaticon</a>  
+
+Backward icon by:
+<a href="https://www.flaticon.com/free-icons/backward" title="backward icons">Backward icons created by Graphix's Art - Flaticon</a>
+
+Forward icon by:
+<a href="https://www.flaticon.com/free-icons/forward" title="forward icons">Forward icons created by Graphix's Art - Flaticon</a>
+
+Profile icon by:
+<a href="https://www.flaticon.com/de/kostenlose-icons/profil" title="profil Icons">Profil Icons erstellt von Freepik - Flaticon</a>
+
+Friends icon by:
+<a href="https://www.flaticon.com/de/kostenlose-icons/freunde" title="freunde Icons">Freunde Icons erstellt von Eucalyp - Flaticon</a>
+
+Guild icon by:
+<a href="https://www.flaticon.com/de/kostenlose-icons/zusammenarbeit" title="zusammenarbeit Icons">Zusammenarbeit Icons erstellt von photo3idea_studio - Flaticon</a>
+
+Logout icon by:
+<a href="https://www.flaticon.com/free-icons/logout" title="logout icons">Logout icons created by Freepik - Flaticon</a>
+
+GitHub icon by:
+<a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by riajulislam - Flaticon</a>
+
+Search icon by:
+<a href="https://www.flaticon.com/de/kostenlose-icons/lupe" title="lupe Icons">Lupe Icons erstellt von vanda arief - Flaticon</a>
+
+App icon by:
+<a href="https://www.flaticon.com/de/kostenlose-icons/netzhaut-scan" title="netzhaut-scan Icons">Netzhaut-scan Icons erstellt von Maan Icons - Flaticon</a>
