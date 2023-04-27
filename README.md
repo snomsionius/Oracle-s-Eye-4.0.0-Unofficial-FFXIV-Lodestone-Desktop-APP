@@ -3,11 +3,12 @@
 Former Final-Fantasy-XIV-Lodestone-Desktop --Unofficial-  
 
 ## Short project summary:  
-I was bored and thought : Lets create an app for the FFxiv Lodestone.  
+I was bored and thought : Lets create an app for the FFXIV Lodestone.  
 
 
 #### Why?  
-Because i felt like it and I had free time  
+Because i felt like it and I had free time.    
+Also, I didn't want to always open up the webbrowser and logging in. I wanted to have a program where I log in, it can be remembered and I can just start looking at the stuff I want.  
 
 #### Roadmap  
 
