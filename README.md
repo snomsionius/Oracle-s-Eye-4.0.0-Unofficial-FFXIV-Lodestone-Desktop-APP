@@ -22,6 +22,7 @@ Your PC might give you a warning that your PC got protected from a virus or smth
 
 ## Content:  
 -How to install   
+-Got problems?  
 -How to use    
 -What can it do  
 -New in this version 
@@ -37,6 +38,13 @@ Your PC might give you a warning that your PC got protected from a virus or smth
 2. Unzip at your desired location  
 3. IF you get an error while extracting, press skip in the error dialogue. It will work nonetheless  
 3. Start .exe  
+
+## Got problems?  
+
+1. Start Troubleshooter.exe  
+2. Select desired option  
+3. Let the program do its job  
+4. Have fun  
 
 ## How to use  
 
