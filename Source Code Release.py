@@ -1,3 +1,6 @@
+# Copyright 2023 by snomsionius
+# Project on GitHub https://github.com/snomsionius/Oracle-s-Eye-4.0.2-Unofficial-FFXIV-Lodestone-Desktop-APP-
+
 import json
 import urllib.request as urllib2
 import webbrowser
